@@ -44,6 +44,9 @@ function App() {
             <li>text text</li>
             <li>text text</li>
         </ul>
+        <div>
+          Hello I have been updated.
+        </div>
     </nav>
     </div>
   );
